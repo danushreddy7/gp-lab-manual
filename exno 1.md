@@ -20,10 +20,8 @@ properties in Unreal Engine.
 8. Drag and drop the materials one by one to the objects in the main player and save theproject.
 ```
 ## Output:
-```
+
 ![image](https://github.com/user-attachments/assets/17338bb3-92e8-4e3c-8db6-295515808680)
 
-
-```
 ## Result:
 Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine was done successfully.
