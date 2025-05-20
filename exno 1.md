@@ -21,11 +21,9 @@ properties in Unreal Engine.
 ```
 ## Output:
 ```
-![Screenshot 2025-05-20 213233](https://github.com/user-attachments/assets/8e1c7317-5574-4baf-a1ff-5b0d46e09a39)
-![Screenshot 2025-05-20 213534](https://github.com/user-attachments/assets/c75d20d9-f053-416b-a147-5b9a0a2d416f)
-![Screenshot 2025-05-20 213744](https://github.com/user-attachments/assets/83968f42-fe70-4ad1-afee-25156b54ceb4)
-![image](https://github.com/user-attachments/assets/2aac7581-a40c-462f-92bf-00609a5706bf)
-![image](https://github.com/user-attachments/assets/4d76de6e-40ef-4ead-9a97-6847db165487)
+![image](https://github.com/user-attachments/assets/17338bb3-92e8-4e3c-8db6-295515808680)
+
+
 ```
 ## Result:
 Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine was done successfully.
