@@ -3,6 +3,7 @@
 ## Aim:
 To implement-chasing when AI see the player.
 ## Algorithm:
+```
 STEP-1: Set up the AI character Blueprint and add a Sphere Collision component to the AI
 character Blueprint and position and scale the Sphere Collision component to represent the AI's
 detection range.
@@ -23,7 +24,7 @@ STEP-7: Update blackboard values. Set the Blackboard Key to the "PlayerLocation"
 you created earlier.
 STEP-8: Set up the Behavior Tree by Open the Behavior Tree asset in the Behavior Tree
 editor.
-
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/5dca3d50-5194-42ac-98ee-deaff001bc22)
 ![image](https://github.com/user-attachments/assets/93f23f18-0da4-4814-a2d1-6153669dcaf8)
