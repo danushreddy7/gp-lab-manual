@@ -1,7 +1,8 @@
-EXP: 07-AI CHASING
-Aim:
+## EXP: 07-AI CHASING.
+## Date:29/4/25
+## Aim:
 To implement-chasing when AI see the player.
-Algorithm:
+## Algorithm:
 STEP-1: Set up the AI character Blueprint and add a Sphere Collision component to the AI
 character Blueprint and position and scale the Sphere Collision component to represent the AI's
 detection range.
@@ -23,10 +24,9 @@ you created earlier.
 STEP-8: Set up the Behavior Tree by Open the Behavior Tree asset in the Behavior Tree
 editor.
 
-Output:
-
-//paste your output screenshot here
-
-
-Result:
-Thus, the AI concept to the actor for a random movement
+## Output:
+![image](https://github.com/user-attachments/assets/5dca3d50-5194-42ac-98ee-deaff001bc22)
+![image](https://github.com/user-attachments/assets/93f23f18-0da4-4814-a2d1-6153669dcaf8)
+![image](https://github.com/user-attachments/assets/cdb60a40-9ab6-4f2d-93bb-342fc72aacdc)
+## Result:
+Thus, the AI concept to the actor for a random movement.
