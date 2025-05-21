@@ -3,7 +3,8 @@
 ## Aim:
 To Change the third-person character mesh and add animations
 ## Procedure:
-1: Prepare your new character mesh and animations:
+```
+1: Prepare your new character mesh and animations.
 2: Create or import a new character mesh with its associated skeleton.
 3: Make sure you have animations for your character, such as idle, walk, run, jump, etc.
 These animations should be compatible with the new character mesh and have the same
@@ -30,12 +31,13 @@ animation blueprint matching your new character's skeleton.
 17:18: Inside the animation blueprint, you can set up the animations for your character.
 19: Find the "Animation" section or graph, and add animation nodes for each animation you
 want to use.
-20: Configure the animation nodes with the appropriate animations for your character. 21:
-Save your changes: Save the Third Person Character Blueprint and the Animation
+20: Configure the animation nodes with the appropriate animations for your character.
+21:Save your changes: Save the Third Person Character Blueprint and the Animation
 Blueprint.
 22: Test the character: Close the Blueprint Editor and go back to the main Unreal Engine
 Editor.
-23: Play the game or simulate it to see the changes you made to the character.:
+23: Play the game or simulate it to see the changes you made to the character.
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/b25f59a4-9eb5-4a2e-91ad-603279af7481)
 ![image](https://github.com/user-attachments/assets/eea2f23b-dd42-41bd-9dea-edbde1ac2521)
