@@ -53,4 +53,4 @@ display a particle effect or play a sound effect to signify a successful hit.
 ![image](https://github.com/user-attachments/assets/f366ddc2-be93-4391-9006-4c56040220a4)
 ## Result:
 To Attach Rifle with character mesh and implementation bullet spawn from Rifle is
-implemen
+implemented.
