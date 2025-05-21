@@ -1,5 +1,5 @@
 ## EXP-04: Attach Rifle with character mesh and bullet spawn from Rifle.
-## Date:
+## Date:9/4/25
 ## Aim:
 To Attach Rifle with character mesh and implementation bullet spawn from Rifle
 ## Algorithm:
