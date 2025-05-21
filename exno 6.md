@@ -1,7 +1,8 @@
-EXP-06: Implement the AI random movement.
-Aim:
+## EXP-06: Implement the AI random movement.
+## Date:24/4/25
+## Aim:
 Implement the AI random movement.
-Algorithm:
+## Algorithm:
 Step:01 Create a Character Blueprint.
 Step:02 Create a Blackboard.
 Step:03 Open the Behavior Tree editor.
@@ -18,9 +19,9 @@ Blueprint you created and drag off the AICharacter reference and search for “U
 Step:08 Set up the NavMesh and boundaries, we can adjust the size and position to cover the
 desired play area.
 
-Output:
-
-//paste your output screenshot here
-
-Result:
+## Output:
+![image](https://github.com/user-attachments/assets/a9b19f8b-19b5-49f9-a441-217858554083)
+![image](https://github.com/user-attachments/assets/7f2cf032-bb1e-4ca4-b8ca-f3ab52d67085)
+![image](https://github.com/user-attachments/assets/d3f6ed18-ba5d-4a06-9895-d22f4f5e94a9)
+## Result:
 Thus, the AI concept to the actor for a random movement is imple
