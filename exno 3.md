@@ -1,7 +1,8 @@
-EXP-03: Change the Third Person Character Mesh and Add Animations.
-Aim:
+## EXP-03: Change the Third Person Character Mesh and Add Animations.
+## Date: 26/3/25
+## Aim:
 To Change the third-person character mesh and add animations
-Procedure:
+## Procedure:
 1: Prepare your new character mesh and animations:
 2: Create or import a new character mesh with its associated skeleton.
 3: Make sure you have animations for your character, such as idle, walk, run, jump, etc.
@@ -35,11 +36,10 @@ Blueprint.
 22: Test the character: Close the Blueprint Editor and go back to the main Unreal Engine
 Editor.
 23: Play the game or simulate it to see the changes you made to the character.:
-Output:
-
-//paste your output screenshot here
-
-
-Result:
+## Output:
+![image](https://github.com/user-attachments/assets/b25f59a4-9eb5-4a2e-91ad-603279af7481)
+![image](https://github.com/user-attachments/assets/eea2f23b-dd42-41bd-9dea-edbde1ac2521)
+![image](https://github.com/user-attachments/assets/393efcb3-c7dd-4e0f-b37f-2692ce9bc7f8) 
+## Result:
 Changing the third-person character mesh and adding animations is implemented
 Succe
