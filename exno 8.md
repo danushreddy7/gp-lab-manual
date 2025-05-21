@@ -18,4 +18,4 @@ STEP-7: Test and iterate.
 
 ## Result:
 
-Thus, landscape, foliage, and landscape material has been created and 
+Thus, landscape, foliage, and landscape material has been created and implimented.
