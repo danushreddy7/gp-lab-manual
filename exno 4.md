@@ -1,7 +1,9 @@
-EXP-04: Attach Rifle with character mesh and bullet spawn from Rifle.
-.Aim:
+## EXP-04: Attach Rifle with character mesh and bullet spawn from Rifle.
+## Date:
+## Aim:
 To Attach Rifle with character mesh and implementation bullet spawn from Rifle
-Algorithm:
+## Algorithm:
+```
 1: Import the character mesh and rifle model into your game engine or development
 environment. Ensure that both assets are properly rigged and prepared for animation.
 2: Create an attachment point on the character's hand or shoulder where the rifle will be
@@ -22,35 +24,33 @@ reaches its target or goes out of bounds. Handle any necessary effects or damage
 calculations upon collision.
 8: Repeat the bullet spawning process as needed whenever the player triggers the shooting
 action.
-To implement the score widget:
-1 : Create a score variable: Declare a variable to keep track of the player's score. For
+9: Create a score variable: Declare a variable to keep track of the player's score. For
 example, you can initialize it to zero at the beginning of the game.
-2: Detect bullet-object collision: Implement a collision detection system to detect when a
+10: Detect bullet-object collision: Implement a collision detection system to detect when a
 bullet collides with an object. This can vary depending on the game engine or framework
 you are using. Typically, you would check for collisions between the bullet and the object
-using3: Handle collision events: When a collision between a bullet and an object is detected,
+11: Handle collision events: When a collision between a bullet and an object is detected,
 trigger a collision event or callback function. This function will be responsible for handling
 the specific actions associated with the collision.
-4: Increase the score: Inside the collision event function, increment the score variable by a
+12: Increase the score: Inside the collision event function, increment the score variable by a
 certain amount. For example, you can add one point to the score every time a bullet hits an
 object.
-5: Update the score widget: After increasing the score, update the score widget to display the
+13: Update the score widget: After increasing the score, update the score widget to display the
 updated score value. This can be done by accessing the score widget element or object and
 setting its text or value to the updated score variable.
-6: Display the score widget: Ensure that the score widget is visible to the player during
+14: Display the score widget: Ensure that the score widget is visible to the player during
 gameplay. This might involve placing it in a prominent position on the screen or integrating it
 into the game's user interface (UI) system.
-7: Repeat the process: Repeat steps 2 to 6 for each object that the player can interact with
+15: Repeat the process: Repeat steps 2 to 6 for each object that the player can interact with
 or shoot at. Whenever a bullet collides with an object, increase the score and update the score
 widget accordingly.
-8: Optional: Add visual and audio feedback: To enhance the player's experience, you can
+16: Optional: Add visual and audio feedback: To enhance the player's experience, you can
 consider adding visual and audio feedback when a bullet hits an object. For example, you might
 display a particle effect or play a sound effect to signify a successful hit.
-Output:
-
-//paste your output screenshot here
-
-
-Result:
+```
+## Output:
+![image](https://github.com/user-attachments/assets/4b6deb71-41fd-46d4-8fc0-dce91089025e)
+![image](https://github.com/user-attachments/assets/f366ddc2-be93-4391-9006-4c56040220a4)
+## Result:
 To Attach Rifle with character mesh and implementation bullet spawn from Rifle is
 implemen
